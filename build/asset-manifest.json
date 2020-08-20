@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/dan281093.github.io/static/css/main.8a4cb5f7.chunk.css",
-    "main.js": "/dan281093.github.io/static/js/main.a0f30e07.chunk.js",
-    "main.js.map": "/dan281093.github.io/static/js/main.a0f30e07.chunk.js.map",
-    "runtime~main.js": "/dan281093.github.io/static/js/runtime~main.860aa82e.js",
-    "runtime~main.js.map": "/dan281093.github.io/static/js/runtime~main.860aa82e.js.map",
-    "static/css/2.f31a095d.chunk.css": "/dan281093.github.io/static/css/2.f31a095d.chunk.css",
-    "static/js/2.86973c88.chunk.js": "/dan281093.github.io/static/js/2.86973c88.chunk.js",
-    "static/js/2.86973c88.chunk.js.map": "/dan281093.github.io/static/js/2.86973c88.chunk.js.map",
-    "index.html": "/dan281093.github.io/index.html",
-    "precache-manifest.32e19a3d5fa4d03afcb28fb6d00f1161.js": "/dan281093.github.io/precache-manifest.32e19a3d5fa4d03afcb28fb6d00f1161.js",
-    "service-worker.js": "/dan281093.github.io/service-worker.js",
-    "static/css/2.f31a095d.chunk.css.map": "/dan281093.github.io/static/css/2.f31a095d.chunk.css.map",
-    "static/css/main.8a4cb5f7.chunk.css.map": "/dan281093.github.io/static/css/main.8a4cb5f7.chunk.css.map",
-    "static/media/index.scss": "/dan281093.github.io/static/media/slick.f97e3bbf.svg"
+    "main.css": "/static/css/main.8a4cb5f7.chunk.css",
+    "main.js": "/static/js/main.85ec4412.chunk.js",
+    "main.js.map": "/static/js/main.85ec4412.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.6e5bf9e1.chunk.css": "/static/css/2.6e5bf9e1.chunk.css",
+    "static/js/2.86973c88.chunk.js": "/static/js/2.86973c88.chunk.js",
+    "static/js/2.86973c88.chunk.js.map": "/static/js/2.86973c88.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e8723aecf50211fad79fa1c1f01ff4dc.js": "/precache-manifest.e8723aecf50211fad79fa1c1f01ff4dc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.6e5bf9e1.chunk.css.map": "/static/css/2.6e5bf9e1.chunk.css.map",
+    "static/css/main.8a4cb5f7.chunk.css.map": "/static/css/main.8a4cb5f7.chunk.css.map",
+    "static/media/index.scss": "/static/media/slick.f97e3bbf.svg"
   }
 }
