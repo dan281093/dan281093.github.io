@@ -1,8 +1,7 @@
 {
   "name": "danamouyalportfolio",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "/",
+  "homepage": "https://dan281093.github.io/dan281093.github.io",
   "basename": "/",
   "dependencies": {
     "@babel/core": "7.4.3",
