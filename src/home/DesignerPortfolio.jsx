@@ -20,7 +20,7 @@ const SlideList = [
 const DesignerPortfolio = () => {
     return (
         <div>
-            <Helmet pageTitle="Designer Portfolio" />
+            <Helmet pageTitle="Dan Amouyal Portfolio" />
             {/* Start Header Area  */}
             <Header headerPosition="header--static" logo="symbol-dark" color="color-black"/>
             {/* End Header Area  */}
